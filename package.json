@@ -10,7 +10,7 @@
 	"description": "Customizable basic 2D RPG character mechanics for your top-down & RPG games",
 	"dependencies": {
 		"inputsystem": "1.6.3",
-		"com.madeyellow.finite-state-machine": "https://github.com/madeyellow/FiniteStateMachine.git"
+		"com.madeyellow.finite-state-machine": "https://github.com/madeyellow/FiniteStateMachine.git#v1.0.0"
 	},
 	"repository": {
 		"type": "git",
