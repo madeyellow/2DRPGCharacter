@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14f4db50ee8671149bc12fb191d8d594, type: 3}
+  m_Name: Example Basic Character 2D Config
+  m_EditorClassIdentifier: 
+  LocomotionDefaultMode: 1
+  LocomotionStealthConfig:
+    IsAllowed: 1
+    Speed: 10
+    SmoothTime: 0.075
+    SmoothSpeedLimit: 3.4028235e+38
+  LocomotionRegularConfig:
+    IsAllowed: 1
+    Speed: 4
+    SmoothTime: 0.075
+    SmoothSpeedLimit: 350
+  LocomotionSprintConfig:
+    IsAllowed: 1
+    Speed: 16
+    SmoothTime: 0.075
+    SmoothSpeedLimit: 250

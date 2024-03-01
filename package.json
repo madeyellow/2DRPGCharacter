@@ -1,0 +1,19 @@
+{
+	"name": "madeyellow.2d-rpg-character",
+	"displayName": "2D RPG Character",
+	"version": "0.1.0",
+	"unity": "2019.1",
+	"author": {
+		"name": "MadeYellow",
+		"url": "https://github.com/madeyellow"
+	},
+	"description": "Customizable basic 2D RPG character mechanics for your top-down & RPG games",
+	"dependencies": {
+		"inputsystem": "1.6.3",
+		"com.madeyellow.finite-state-machine": "https://github.com/madeyellow/FiniteStateMachine.git"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/madeyellow/2D-RPG-Character.git"
+	}
+}
